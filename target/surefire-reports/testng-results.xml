@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="maaven.HelloWorldTest">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="maaven.HelloWorldTest">
+        <test-method status="PASS" signature="testGetText()" name="testGetText" duration-ms="6" started-at="2018-07-12T22:02:19Z" finished-at="2018-07-12T22:02:19Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
